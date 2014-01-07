@@ -1,0 +1,13 @@
+This project aims to provide a GTK based blog client for Linux and optionally other OSes.
+
+The primary target support is for WordPress. Later if possible, I will add support for other blog types such as Blogger, MovableType etc.,
+
+The main reason for this project is that I searched and searched... and searched again and still found NO good blogging client software such as a Blogilo (for KDE). 
+
+Though Blogilo works for GNOME/Unity as well, I still am not quite into it.. probably the lack of UX that gels with Unity/GTK/Gnome (fonts, windows, layouts etc.,).
+
+So this is more of scratch-your-own-itch initiative. BEWARE!!! I'm not known for following through my ideas. Follow me at your own risk!!! If you someone who can keep pushing me into completing stuff... you are most welcome.
+
+-Aravinth.
+
+
